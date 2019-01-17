@@ -1,4 +1,4 @@
-docker-mirakurun-epgstation
+docker-epgstation
 ====
 
 [Mirakurun](https://github.com/Chinachu/Mirakurun) + [EPGStation](https://github.com/l3tnun/EPGStation) の Docker コンテナ
