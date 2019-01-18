@@ -1,10 +1,9 @@
 docker-epgstation
 ====
-
-[Mirakurun](https://github.com/Chinachu/Mirakurun) + [EPGStation](https://github.com/l3tnun/EPGStation) の Docker コンテナ
+[EPGStation](https://github.com/l3tnun/EPGStation) の Docker コンテナ
 
 ## 前提条件
-
-Docker, docker-compose の導入が必須
+Dockerではない通常のLinux環境（物理）で、mirakurun　が正常稼働していること
+Docker, docker-compose が正常稼働できること
 
 改変中
